@@ -1,0 +1,48 @@
+# DocumentGenerator Configuration File
+#
+# Rev 1.0.0
+
+# REQUESTMAX - Maximum number of requests that will be processed in a single run.
+# I primarily use this for testing so I don't blow through my test data so quickly.
+# For testing I set it to 1 or 2.
+#
+# In production, it could prevent a runaway train from taking over the system.
+# Maybe set it to 100 or 1000 for production. One consideration for production relates
+# to how many emails your SMTP relay will permit you to send. For example, if the
+# SMTP relay host only allows 600 per hour and you run this script every 30 seconds,
+# then set REQUESTMAX=5, that way you can't exceed the maximum email relay count for 
+# that hour.
+#
+# If set to 0, there is no limit to the number of requests that will be
+# processed.
+REQUESTMAX=1
+
+## DATABASE PARAMETERS
+##
+DBHOST=localhost
+DBUSERNAME=root
+DBPASSWORD=jdrdb&&101
+DBNAME=forms
+
+## MAIL SYSTEM PARAMETERS
+##
+SMTPHOST=smtpout.secureserver.net
+SMTPDEBUG=0
+SMTPPORT=80
+SMTPUSERNAME=docs@jdreview.com
+SMTPPASSWORD=Tjdjd6692
+SMTPFROM=docs@jdreview.com
+SMTPFROMNAME=JDReview Documents
+SMTPREPLYTO=docs@jdreview.com
+SMTPREPLYTONAME=JDReview Documents
+
+## FILE SYSTEM PARAMETERS
+##
+GENERATEDIR=documents
+ARCHIVEDIR=archive
+FORMSDIR=forms
+
+## MISC PARAMETERS
+##
+TIMEZONE=America/Chicago
+LOGTIMESTAMPFORMAT=Y-m-d H:i:s
