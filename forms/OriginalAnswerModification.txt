@@ -1,0 +1,35 @@
+Form 11D:1  Modification of Conservatorship, Possession, or Access – Answer
+RESPONDENT’S ORIGINAL ANSWER 
+{STATE ADDITIONAL RELIEF REQUESTED, E.G., 
+& COUNTERPETITION TO MODIFY CONSERVATORSHIP}
+  Respondent, {name}, files this Original Answer {state additional relief requested, e.g., and counterpetition to modify conservatorship} to Petitioner {name}’s Original Petition to Modify {Conservatorship/Possession/Access}. 
+{CHOOSE ONE OF THE FOLLOWING}
+(A)	The last three digits of Respondent’s {state of issuance} driver’s license number are {digits}. The last three digits of Respondent’s Social Security number are {digits}. {See Tex. Civ. Prac. & Rem. Code §30.014(a).}
+(B)	The last three digits of Respondent’s {state of issuance} driver’s license number are {digits}. Respondent has not been issued a Social Security number. {See Tex. Civ. Prac. & Rem. Code §30.014(a).}
+(C)	The last three digits of Respondent’s Social Security number are {digits}. Respondent has not been issued a driver’s license. {See Tex. Civ. Prac. & Rem. Code §30.014(a).}
+(D)	Respondent has not been issued a driver’s license or a Social Security number. {See Tex. Civ. Prac. & Rem. Code §30.014(a).}
+I. GENERAL DENIAL
+  1. Respondent generally denies the allegations in Petitioner’s Original Petition. {See O’Connor’s Fam. Law Handbook, “General denial,” ch. 4-D, §6.3.3(6)(a).}
+{ADD SECTIONS II-IX IF APPLICABLE}
+II. OBJECTION TO ASSOCIATE JUDGE
+  2. Respondent objects to an associate judge hearing a trial on the merits or presiding at a jury trial in this case. {See Tex. Fam. Code §201.005(c).}
+III. VERIFIED PLEAS
+  3. {For verified pleas, see FORM 4C:5.}
+IV. OTHER DEFENSES
+  4. {For affirmative defenses, see FORM 4C:4.}
+V. COUNTERPETITION TO {STATE AFFIRMATIVE RELIEF 
+SOUGHT, E.G., MODIFY CONSERVATORSHIP}
+  5. {For the pleading requirements for a counterpetition, see appropriate petitions.}
+VI. UCCJEA INFORMATION
+{CHOOSE APPROPRIATE PARAGRAPH 6}
+  6. The information required by Texas Family Code section 152.209 is provided in an affidavit attached as Exhibit {letter}. {See O’Connor’s Fam. Law Handbook, “UCCJEA affidavit,” ch. 4-E, §5.6.1.}
+  6. The information required by Texas Family Code section 152.209 is filed under seal with the Court. An affidavit to seal the information is attached as Exhibit {letter}. {See Tex. Fam. Code §152.209(e); O’Connor’s Fam. Law Handbook, “UCCJEA affidavit,” ch. 4-E, §5.6.1.}
+VII. ATTORNEY FEES
+  7. It was necessary for Respondent to retain the services of {name of attorney}, a licensed attorney, to prepare and defend this suit. Judgment for reasonable attorney fees and expenses through trial and appeal should be granted against Petitioner and in favor of {name of attorney}. The judgment, along with postjudgment interest, should be ordered paid directly to {name of attorney}, who may enforce the judgment in {his/her} own name. {See Tex. Fam. Code §106.002; O’Connor’s Fam. Law Handbook, “Judgment for attorney fees & expenses,” ch. 4-D, §13.6.}
+  8. In the alternative, Respondent’s reasonable attorney fees and expenses through trial and appeal should be taxed as costs against Petitioner under Texas Family Code section 156.005 because Petitioner filed this suit frivolously or to harass Respondent.
+VIII. JURY DEMAND
+  9.  Respondent demands a jury trial and tenders the appropriate fee with this answer. {See O’Connor’s Fam. Law Handbook, “Jury demand,” ch. 4-D, §2.4.16.}
+IX. REQUEST FOR DISCLOSURE
+  10. Under Texas Rule of Civil Procedure 194, Respondent requests that Petitioner disclose, within 30 days after service of this request, the information or material described in Rule 194.2. {See O’Connor’s Texas Rules, “Content of request,” ch. 6-E, §3.2.} 
+X. PRAYER
+  11. For these reasons, Respondent asks the Court to {state relief requested} and award all other relief to which Respondent is entitled.
